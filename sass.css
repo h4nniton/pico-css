@@ -1,0 +1,21 @@
+* {
+    background-color: #2E1012;
+}
+
+.logo-fundo {
+    max-width: 95%;
+    margin-left: 45px;
+}
+
+.coluna-um {
+    margin-top: -440px;
+    position: absolute;
+}
+
+.coluna-dois {
+    background-color: yellow;
+    width: 450px;
+    height: 600px;
+    margin-top: -575px;
+    margin-left: 500px;
+}
